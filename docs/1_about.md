@@ -70,7 +70,6 @@
 	- 静的型付け
 - JSX
 	- DeNA製
-	- React.js で一躍有名に
 - Dart
 	- Google製
 	- JSを置き換えようとしたが頓挫した
